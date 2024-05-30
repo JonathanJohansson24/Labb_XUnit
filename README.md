@@ -1,4 +1,4 @@
-# Kalkylatorapplikation
+# Miniräknarapplikation
 
 ## Beskrivning
 En enkel miniräknarapplikation som kan utföra addition, subtraktion, division och multiplikation. Applikationen kan spara och visa en historik över utförda beräkningar.
@@ -7,7 +7,7 @@ En enkel miniräknarapplikation som kan utföra addition, subtraktion, division 
 
 ### Acceptanstest 1: Addition
 
-1. Öppna applikationen.
+1. Starta applikationen.
 2. Välj "addition" som operation genom att skriva "addition" och tryck Enter.
 3. Ange det första talet: skriv "5" och tryck Enter.
 4. Ange det andra talet: skriv "3" och tryck Enter.
@@ -16,7 +16,7 @@ En enkel miniräknarapplikation som kan utföra addition, subtraktion, division 
 
 ### Acceptanstest 2: Subtraktion
 
-1. Öppna applikationen.
+1. Starta applikationen.
 2. Välj "subtraktion" som operation genom att skriva "subtraktion" och tryck Enter.
 3. Ange det första talet: skriv "10" och tryck Enter.
 4. Ange det andra talet: skriv "4" och tryck Enter.
@@ -25,7 +25,7 @@ En enkel miniräknarapplikation som kan utföra addition, subtraktion, division 
 
 ### Acceptanstest 3: Division med historik
 
-1. Öppna applikationen.
+1. Starta applikationen.
 2. Välj "division" som operation genom att skriva "division" och tryck Enter.
 3. Ange det första talet: skriv "20" och tryck Enter.
 4. Ange det andra talet: skriv "4" och tryck Enter.
@@ -35,4 +35,4 @@ En enkel miniräknarapplikation som kan utföra addition, subtraktion, division 
 
 ## Enhetstester
 
-Enhetstester finns implementerade med XUnit och testar olika delar av applikationen. Se `CalculatorTests.cs` för mer detaljer.
+Enhetstesterna finns implementerade med XUnit och testar olika delar av applikationen. Se `CalculatorTests.cs` för mer detaljer.
